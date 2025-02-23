@@ -8,6 +8,7 @@ Welcome to my GitHub repository! Here, you’ll find a collection of the project
 
 - [About](#about)
 - [Projects](#projects)
+- [Built with](#built-with)
 - [How to Use](#how-to-use)
 - [Contributions](#contributions)
 - [License](#license)
@@ -19,6 +20,15 @@ This repository contains a variety of projects that I’ve developed. Each proje
 ## Projects
 
 1. **Project 1**: Example Website with IPMA API Integration
+
+## Built With
+
+This section lists any major frameworks/libraries used to bootstrap your project.
+
+* [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-blue)](https://getbootstrap.com)
+* [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## How to Use
 
