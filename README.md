@@ -25,10 +25,7 @@ This repository contains a variety of projects that I’ve developed. Each proje
 
 This section lists any major frameworks/libraries used to bootstrap your project.
 
-* [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-blue)](https://getbootstrap.com)
-* [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-blue)](https://getbootstrap.com) * [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML) * [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS) * [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## How to Use
 
