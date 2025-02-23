@@ -23,7 +23,7 @@ This repository contains a variety of projects that I’ve developed. Each proje
 
 ## Built With
 
-This section lists any major frameworks/libraries used to bootstrap your project.
+This section lists any major frameworks/libraries used to build my public projects.
 
 * [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-blue)](https://getbootstrap.com)
 * [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
