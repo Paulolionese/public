@@ -1,16 +1,16 @@
 # Repositório public
 
-# Meus Projetos
+## Meus Projetos
 
 Bem-vindo ao meu repositório GitHub! Aqui você encontrará uma coleção dos projetos que desenvolvi.
 
 ## Índice
 
-- Sobre
-- Projetos
-- Como Usar
-- Contribuições
-- Licença
+- [Sobre](#sobre)
+- [Projetos](#projetos)
+- [Como Usar](#como-usar)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
 
 ## Sobre
 
@@ -20,7 +20,6 @@ Este repositório irá conter uma variedade de projetos que desenvolverei ao lon
 
 1. **Projeto 1**: Exemplo de Site com integração da API do IPMA
 
-
 ## Como Usar
 
 Para clonar este repositório e executar qualquer um dos projetos, siga os passos abaixo:
@@ -28,13 +27,4 @@ Para clonar este repositório e executar qualquer um dos projetos, siga os passo
 ```bash
 git clone https://github.com/Paulolionese/public.git
 cd public
-
 ```
-Cada projeto terá suas próprias instruções de uso no respectivo diretório.
-Contribuições
-
-Contribuições são bem-vindas!
-Se você tiver sugestões ou encontrar problemas, por favor, abra uma issue ou envie um pull request.
-Licença
-
-Este repositório está licenciado sob a MIT License.
